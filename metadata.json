@@ -1,0 +1,8 @@
+{
+  "name": "Remix VELIA - Gel Xà Phòng Rửa Tay Khô Sinh Học",
+  "description": "Website chính thức của dự án khởi nghiệp VELIA - Gel xà phòng rửa tay khô sinh học kèm thẻ bài nhân vật độc quyền, giỏ hàng thông minh và theo dõi đơn hàng thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
